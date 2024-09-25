@@ -1,0 +1,1 @@
+Создан файл hello.txt, index.html, main.cs, script.js . Эти файлы были зафиксированы командлой git add
